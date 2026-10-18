@@ -1,0 +1,11 @@
+{
+  "name": "Derezzed",
+  "short_name": "Derezzed",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Editor de imágenes optimizado para iPhone",
+  "icons": [
+    { "src": "/logo.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

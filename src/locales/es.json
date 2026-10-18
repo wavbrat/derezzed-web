@@ -1,0 +1,16 @@
+{
+  "app": {
+    "title": "Derezzed — Editor",
+    "footer": "Editor PWA optimizado para iPhone 16e. Algunas funciones pueden estar limitadas en demo."
+  },
+  "gallery": {
+    "title": "Imágenes de ejemplo",
+    "sampleAlt": "Imagen de ejemplo {{n}}"
+  },
+  "editor": {
+    "close": "Cerrar",
+    "layers": "Capas",
+    "adjust": "Ajustes",
+    "export": "Exportar"
+  }
+}
